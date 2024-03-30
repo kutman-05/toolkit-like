@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 30pc;
+}
+.nav {
+  display: flex;
+  gap: 30px;
+  font-size: 25px;
+  font-weight: 550;
+  font-family: sans-serif;
+}

@@ -1,0 +1,9 @@
+
+.home img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-left: 30pc; */
+  flex-direction: column;
+}
+
